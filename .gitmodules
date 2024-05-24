@@ -1,6 +1,6 @@
 [submodule "mono_dataset_code"]
 	path = mono_dataset_code
-	url = /home/joachim/DSO/mono_dataset_code/
+	url = https://github.com/Joachim-Despature/mono_dataset_code.git
 [submodule "dso"]
 	path = dso
-	url = /home/joachim/DSO/dso
+	url = https://github.com/Joachim-Despature/dso.git

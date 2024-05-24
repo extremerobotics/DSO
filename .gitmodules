@@ -1,3 +1,6 @@
 [submodule "mono_dataset_code"]
 	path = mono_dataset_code
 	url = /home/joachim/DSO/mono_dataset_code/
+[submodule "dso"]
+	path = dso
+	url = /home/joachim/DSO/dso

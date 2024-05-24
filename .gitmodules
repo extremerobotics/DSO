@@ -6,4 +6,4 @@
 	url = https://github.com/Joachim-Despature/dso.git
 [submodule "Pangolin"]
 	path = Pangolin
-	url = /home/joachim/DSO/Pangolin
+	url = https://github.com/Joachim-Despature/Pangolin.git
